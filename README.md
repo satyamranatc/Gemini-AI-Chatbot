@@ -136,6 +136,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - satyamranatc@gmail.com
 
-Project Link: [https://github.com/yourusername/gemini-ai-chatbot](https://github.com/yourusername/gemini-ai-chatbot)
+Project Link: [https://github.com/satyamranatc/Gemini-AI-Chatbot](https://github.com/satyamranatc/Gemini-AI-Chatbot)
